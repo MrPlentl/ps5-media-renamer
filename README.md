@@ -3,6 +3,9 @@
 A lightweight utility that automatically organizes and renames PS5 capture files (videos and screenshots) into clean, sequential filenames.  
 It scans your PS5 media folders and renames files based on their game directory, making it much easier to manage, archive, or share your gameplay content.
 
+### TLDR
+Download the "PS5 Media Renamer V1" executable in the Releases section and run it inside the PS5 directory you copied from your PS5
+
 ---
 
 ## 🚀 Features
